@@ -82,10 +82,10 @@ album_A09361BD_8E5E_3797_41D5_5CD295C4BA3C.label = Temporal Flux
 video_B0936D47_A612_BB99_41E1_7BFAE3E0FEEE.label = upon return
 
 ### Video
-videolevel_B09EB8E0_A61E_5A97_41D5_F833BD8792CF.url = media/video_B0936D47_A612_BB99_41E1_7BFAE3E0FEEE_en.mp4
-videolevel_B09EB8E0_A61E_5A97_41D5_F833BD8792CF.posterURL = media/video_B0936D47_A612_BB99_41E1_7BFAE3E0FEEE_poster_en.jpg
-videolevel_B09E3911_A61E_5BB9_41E4_20CACF814050.url = media/video_B4DE6C2D_A5F6_59EE_41DD_6A055BA1D638_en.mp4
-videolevel_B09E3911_A61E_5BB9_41E4_20CACF814050.posterURL = media/video_B4DE6C2D_A5F6_59EE_41DD_6A055BA1D638_poster_en.jpg
+videolevel_B98DC4CE_A7F3_EAAB_41E4_2BAAAB0C3D9E.url = media/video_B0936D47_A612_BB99_41E1_7BFAE3E0FEEE_en.mp4
+videolevel_B98DC4CE_A7F3_EAAB_41E4_2BAAAB0C3D9E.posterURL = media/video_B0936D47_A612_BB99_41E1_7BFAE3E0FEEE_poster_en.jpg
+videolevel_B98CA528_A7F3_EB97_41E4_99B20F5DFAE3.url = media/video_B4DE6C2D_A5F6_59EE_41DD_6A055BA1D638_en.mp4
+videolevel_B98CA528_A7F3_EB97_41E4_99B20F5DFAE3.posterURL = media/video_B4DE6C2D_A5F6_59EE_41DD_6A055BA1D638_poster_en.jpg
 
 ### Video Subtitles
 
@@ -130,4 +130,4 @@ HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-ali
 ### Description
 
 ### Title
-tour.name = Tempolar Flux
+tour.name = Temporal Flux
